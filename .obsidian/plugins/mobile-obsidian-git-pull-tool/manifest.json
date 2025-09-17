@@ -1,0 +1,10 @@
+{
+  "id": "mobile-github-pull",
+  "name": "GitHub Pull Sync (Mobile)",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "GitHub リポジトリをモバイル版 Obsidian Vault に読み取り専用で同期するプラグイン",
+  "author": "mobile-obsidian-git-pull",
+  "authorUrl": "https://github.com/",
+  "isDesktopOnly": false
+}
